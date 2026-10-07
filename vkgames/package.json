@@ -1,0 +1,14 @@
+{
+  "name": "arhipelag-vk",
+  "private": true,
+  "version": "1.0.0",
+  "homepage": ".",
+  "scripts": {
+    "build": "node tools/vk-build.js",
+    "predeploy": "npm run build",
+    "deploy": "vk-miniapps-deploy"
+  },
+  "devDependencies": {
+    "@vkontakte/vk-miniapps-deploy": "^1.0.2"
+  }
+}

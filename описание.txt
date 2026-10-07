@@ -1,0 +1,21 @@
+Archipelago is a top-down naval strike game. You command a single gunboat from the carrier NORTH, and the archipelago in front of you is on fire.
+Every mission is built from scratch — islands, weather, time of day and objective. Storm coastal bases, crack open bunkers and bring down radar masts. At night work quietly: pull prisoners out of the camps while lighthouse beams sweep the water. Land marines and cover them with fire from the sea. Escort a transport through minefields and submarine packs. In a storm a waterspout walks the waves, and it does not tell friend from foe.
+Every fifth mission brings an enemy flagship: the battleship LEVIATHAN, the carrier TEMPEST or the monitor FORTRESS. The campaign never ends, it only gets harder.
+Between battles return to the carrier: twelve upgrades for your boat, homing rockets, CIWS, radar and depth charges. Headquarters hands out a daily ration, three combat orders every day and ranks earned by your total score.
+Nine languages, keyboard, mouse and touch controls.
+
+KEYBOARD AND MOUSE
+WASD — steer the boat
+SHIFT — afterburner
+Left mouse button — main gun
+Right mouse button — homing rockets
+F — smoke screen
+Q — depth charges
+E — arsenal (next to the carrier)
+H — headquarters
+O — settings, M — sound, P — pause
+TOUCH
+Left half of the screen — steering stick
+Right half — aim and fire
+Buttons on the right: afterburner, rocket, smoke, depth charges, arsenal
+Your objective is printed at the top of the screen. Carry rescued people aboard and hand them over to the carrier — the boat has a limited number of seats. Targets destroyed back to back pay more credits, and credits are spent in the arsenal between missions.

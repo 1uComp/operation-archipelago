@@ -1,0 +1,39 @@
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- AI agent config (not part of the game) ---
+.claude/
+.cursor/
+copilot-instructions.md
+
+# --- Dependencies (reinstallable) ---
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# --- Python build artefacts ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# --- Scratch archives and drafts ---
+*.zip
+*.7z
+*.rar
+*.log
+*.tmp
+
+# --- Local design notes (source docs, not shipped) ---
+*.docx
+*.doc
+~$*

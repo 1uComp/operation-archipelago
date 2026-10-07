@@ -1,0 +1,98 @@
+/* ============================================================
+   style.css — оформление страницы вокруг канваса
+   ============================================================ */
+
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #04101b;
+  /* на сенсорных экранах браузер не должен перехватывать жесты */
+  touch-action: none;
+  overscroll-behavior: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    radial-gradient(1200px 760px at 50% 40%, #0b2a3e 0%, #061826 55%, #030c14 100%);
+  font-family: monospace;
+}
+
+/* мягкое «дыхание» подсветки за экраном */
+body::before {
+  content: '';
+  position: fixed;
+  inset: -20%;
+  pointer-events: none;
+  background: radial-gradient(600px 420px at 50% 50%, rgba(40, 150, 190, 0.10), transparent 70%);
+  animation: pulse 7s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 0.55; }
+  50%      { opacity: 1; }
+}
+
+canvas {
+  /* холст рендерится в 1920x1080 и вписывается в окно — сглаженное
+     уменьшение выглядит лучше, чем ступенчатое */
+  image-rendering: auto;
+  cursor: none;
+  touch-action: none;
+  position: relative;
+  z-index: 2;
+  border-radius: 3px;
+  box-shadow:
+    0 0 0 2px #0d2c40,
+    0 0 0 4px rgba(8, 24, 36, 0.9),
+    0 0 90px rgba(30, 140, 180, 0.30),
+    0 18px 60px rgba(0, 0, 0, 0.65);
+}
+
+/* CRT-эффект: строки развёртки + виньетка + лёгкая аберрация по краям */
+#fx {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 3;
+  background:
+    repeating-linear-gradient(0deg, rgba(0, 0, 0, 0.14) 0 1px, transparent 1px 4px);
+  opacity: 0.30;
+}
+#vig {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 4;
+  background: radial-gradient(circle at 50% 50%, transparent 52%, rgba(0, 0, 0, 0.55) 100%);
+}
+
+/* на телефоне рамка и подписи только мешают */
+body.touch canvas { border-radius: 0; box-shadow: 0 0 0 1px #0d2c40; }
+body.touch #tag, body.touch #hint { display: none; }
+
+#tag {
+  position: fixed;
+  left: 12px;
+  bottom: 8px;
+  z-index: 5;
+  font: 10px monospace;
+  color: #1d4a63;
+  letter-spacing: 2px;
+  pointer-events: none;
+}
+#hint {
+  position: fixed;
+  right: 12px;
+  bottom: 8px;
+  z-index: 5;
+  font: 10px monospace;
+  color: #1d4a63;
+  letter-spacing: 1px;
+  pointer-events: none;
+}

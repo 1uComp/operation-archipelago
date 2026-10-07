@@ -1,0 +1,33 @@
+CATEGORY: Shooting (alternative: Action)
+
+TAGS (max 5): Action, Shooting, War, Survival, Boat
+
+=== DESCRIPTION ===
+Command a lone gunboat against an island fortress chain. Smash coastal bases, sink patrol fleets, rescue prisoners under lighthouse beams, land marines and escort transports through minefields — every mission is generated fresh, and every fifth one sends an enemy flagship (LEVIATHAN, TEMPEST or FORTRESS) to kill you.
+
+The campaign never ends, it only gets harder. Earn credits, fit 12 boat upgrades (homing rockets, CIWS, radar, depth charges), spin the supply drum, collect the daily ration and 3 daily orders, and climb 10 naval ranks.
+
+Endless campaign • 4 mission types + boss fights • day/night, storms, submarines and waterspouts • 9 languages • keyboard + mouse + touch.
+
+=== CONTROLS ===
+KEYBOARD AND MOUSE
+WASD / arrows — steer the boat
+Mouse — aim, Left click — main gun, Right click — homing rockets
+SHIFT — afterburner, F — smoke screen, Q — depth charges
+E — arsenal (next to the carrier), H — headquarters
+P — pause, O — settings, M — sound
+
+TOUCH
+Left half of the screen — steering stick
+Right half — aim and fire
+Buttons on the right: afterburner, rocket, smoke, depth charges, arsenal
+
+Your objective is printed at the top of the screen. Carry rescued people aboard and hand them over to the carrier — the boat has a limited number of seats. Targets destroyed back to back pay more credits, and credits are spent in the arsenal between missions.
+
+=== THUMBNAIL / COVER CHECKLIST (CTR 1.5% -> target 3%+) ===
+- One big gunboat at 30-40% of frame, bow towards the enemy, muzzle flash visible
+- One big explosion + one sinking ship behind it (action readable at 200px wide)
+- Max 3 saturated colors (sea blue, explosion orange, UI yellow); dark night variant with lighthouse beam converts best for war games
+- No small text, no empty sea/sky taking >30% of frame
+- Icon 512x512: white ship silhouette on red/orange blast, no text
+- A/B test 2-3 covers in the CrazyGames developer portal before judging CTR

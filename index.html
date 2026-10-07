@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#04101b">
+<title>ОПЕРАЦИЯ «АРХИПЕЛАГ»</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<canvas id="game" width="1920" height="1080"></canvas>
+<div id="fx"></div>
+<div id="vig"></div>
+<div id="tag">ОПЕРАЦИЯ «АРХИПЕЛАГ» • БЕСКОНЕЧНАЯ КАМПАНИЯ</div>
+<div id="hint">WASD • SHIFT • LMB • RMB • E • F • Q • H • O • P • M</div>
+
+<!-- Яндекс Игры: если скрипт не загрузится, игра работает без рекламы и покупок -->
+<script src="https://yandex.ru/games/sdk/v2"></script>
+
+<!-- ядро -->
+<script src="src/core/settings.js?v=67"></script>
+<script src="src/core/i18n.js?v=67"></script>
+<script src="src/core/utils.js?v=67"></script>
+<script src="src/core/config.js?v=67"></script>
+<script src="src/core/state.js?v=67"></script>
+<script src="src/core/audio.js?v=67"></script>
+<script src="src/core/ysdk.js?v=67"></script>
+<script src="src/core/meta.js?v=67"></script>
+
+<!-- графика -->
+<script src="src/gfx/sprites.js?v=67"></script>
+<script src="src/gfx/people.js?v=67"></script>
+<script src="src/gfx/fx.js?v=67"></script>
+<script src="src/gfx/weather.js?v=67"></script>
+<script src="src/gfx/depth.js?v=67"></script>
+<script src="src/gfx/vfx.js?v=67"></script>
+
+<!-- мир -->
+<script src="src/world/world.js?v=67"></script>
+
+<!-- сущности -->
+<script src="src/entities/player.js?v=67"></script>
+<script src="src/entities/enemies.js?v=67"></script>
+<script src="src/entities/planes.js?v=67"></script>
+<script src="src/entities/structs.js?v=67"></script>
+<script src="src/entities/projectiles.js?v=67"></script>
+<script src="src/entities/hostages.js?v=67"></script>
+<script src="src/entities/pickups.js?v=67"></script>
+<script src="src/entities/allies.js?v=67"></script>
+<script src="src/entities/hazards.js?v=67"></script>
+<script src="src/entities/crew.js?v=67"></script>
+<script src="src/entities/abilities.js?v=67"></script>
+<script src="src/entities/subs.js?v=67"></script>
+<script src="src/entities/convoy.js?v=67"></script>
+<script src="src/entities/events.js?v=67"></script>
+
+<!-- отрисовка сцены и интерфейс -->
+<script src="src/gfx/scene.js?v=67"></script>
+<script src="src/ui/hud.js?v=67"></script>
+<script src="src/ui/hudx.js?v=67"></script>
+<script src="src/ui/shop.js?v=67"></script>
+<script src="src/ui/screens.js?v=67"></script>
+<script src="src/ui/uikit.js?v=67"></script>
+<script src="src/ui/tutor.js?v=67"></script>
+<script src="src/ui/settings.js?v=67"></script>
+<script src="src/ui/crate.js?v=67"></script>
+<script src="src/ui/hq.js?v=67"></script>
+
+<!-- ввод и запуск -->
+<script src="src/core/touch.js?v=67"></script>
+<script src="src/core/input.js?v=67"></script>
+<script src="src/main.js?v=67"></script>
+</body>
+</html>

@@ -1,0 +1,97 @@
+КАРТОЧКА ИГРЫ ДЛЯ КОНСОЛИ ЯНДЕКС ИГР
+Операция Архипелаг — тексты для всех полей. Длины проверены по лимитам.
+
+================================================================
+РУССКИЙ
+================================================================
+
+--- НАЗВАНИЕ (18/50) ---
+Операция Архипелаг
+
+--- КОРОТКОЕ ОПИСАНИЕ (64/70) ---
+Морская аркада: катер, острова и бесконечная кампания с боссами.
+
+--- ОПИСАНИЕ ДЛЯ SEO (150/160) ---
+Морская аркада с видом сверху: штурмуйте базы на островах, спасайте пленных ночью, топите флагманы. Бесконечная кампания, босс на каждом пятом уровне.
+
+--- ОБ ИГРЕ (946/1000) ---
+Архипелаг в огне. Вы — командир катера с авианосца «Север»: ни подкреплений, ни права на ошибку.
+
+Каждая операция собирается заново — острова, погода, время суток и задача. Штурмуйте прибрежные базы, вскрывайте бункеры и сносите РЛС-вышки. Ночью работайте тихо: вытаскивайте пленных, пока лучи маяков шарят по воде. Высаживайте морскую пехоту и прикрывайте её огнём с моря. Проводите транспорт «Ладога» сквозь минные поля и стаи подлодок. В шторм по волнам идёт торнадо — оно не разбирает, где свои.
+
+Каждый пятый уровень встречает флагман: линкор «Левиафан», авианосец «Гроза» или монитор «Крепость». Кампания не кончается — она становится жёстче.
+
+Между боями возвращайтесь на «Север»: двенадцать улучшений катера, ракеты, ПВО, радар, глубинные бомбы. В штабе ждут паёк за ежедневный вход, боевые задания на сутки, звания за общий счёт и «ИРП удачи» с редким главным призом.
+
+Русский и английский языки, клавиатура, мышь и сенсорное управление.
+
+--- КАК ИГРАТЬ (919/1000) ---
+Клавиатура и мышь: WASD — ход, SHIFT — форсаж, ЛКМ — огонь, ПКМ — ракеты, F — дымовая завеса, Q — глубинные бомбы, E — арсенал у авианосца, H — штаб, O — настройки, P — пауза, M — звук.
+
+Телефон и планшет: левая половина экрана — руль, правая — прицел и огонь. Кнопки справа: форсаж, ракета, дым, бомбы, арсенал.
+
+Задача операции написана вверху экрана: снести все базы, спасти всех пленных, довести морпехов до цели или провести транспорт в порт. Людей везите на борту — мест немного, сдавайте их на авианосец «Север».
+
+Держите серию: цели, уничтоженные подряд, платят больше. Заходите к дружественным пирсам — там чинят корпус, а на борт подсаживаются стрелки. Дым рвёт противнику линию огня и прячет от маяков. Глубинные бомбы достают подлодки, но бьют и по своему корпусу — отходите.
+
+Кредиты тратятся в арсенале между боями. Погиб — забег начинается сначала, но звание, серия дней и купленные вещи остаются с вами.
+
+--- КЛЮЧЕВЫЕ СЛОВА (74/100) ---
+морской бой, катер, острова, десант, подлодки, боссы, аркада, шутер, война
+
+--- ТЕГИ ---
+аркада, экшен, шутер, морской бой, корабли, выживание, для мальчиков, 2D
+
+================================================================
+ENGLISH
+================================================================
+
+--- TITLE (21/50) ---
+Operation Archipelago
+
+--- SHORT DESCRIPTION (67/70) ---
+Naval arcade: one gunboat, endless islands, a boss every fifth run.
+
+--- SEO DESCRIPTION (155/160) ---
+Top-down naval arcade: storm island bases, rescue prisoners under lighthouse beams, sink enemy flagships. Endless campaign with a boss every fifth mission.
+
+--- ABOUT THE GAME (992/1000) ---
+The archipelago is burning. You command a gunboat from the carrier "North" — no reinforcements, no second chances.
+
+Every operation is built from scratch: islands, weather, time of day and objective. Storm coastal bases, crack open bunkers and bring down radar masts. At night work quietly — pull prisoners out while lighthouse beams sweep the water. Land marines and cover them with fire from the sea. Escort the transport "Ladoga" through minefields and submarine packs. In a storm a tornado walks the waves, and it does not tell friend from foe.
+
+Every fifth mission brings a flagship: the battleship "Leviathan", the carrier "Tempest" or the monitor "Fortress". The campaign never ends — it only gets harder.
+
+Between battles return to "North": twelve upgrades, rockets, CIWS, radar, depth charges. Headquarters holds your daily ration, day-long combat orders, ranks earned by total score, and the Lucky Supply Box with a rare grand prize.
+
+Russian and English. Keyboard, mouse and touch.
+
+--- HOW TO PLAY (997/1000) ---
+Keyboard and mouse: WASD to steer, SHIFT to boost, LMB to fire, RMB for rockets, F for smoke, Q for depth charges, E for the arsenal at the carrier, H for headquarters, O for settings, P to pause, M for sound.
+
+Phone and tablet: the left half of the screen steers, the right half aims and fires. Buttons on the right: boost, rocket, smoke, charges, arsenal.
+
+Your objective is shown at the top of the screen: destroy every base, rescue every prisoner, deliver the marines, or escort the transport into port. Carry people aboard — space is limited, so hand them over to the carrier "North".
+
+Keep your streak: targets destroyed back to back pay more. Pull up to friendly piers to repair the hull and take gunners aboard. Smoke breaks the enemy's line of fire and hides you from lighthouses. Depth charges reach submarines but also hurt your own hull, so pull away.
+
+Credits are spent in the arsenal. When you sink, the run starts over, but your rank, daily streak and purchased items stay with you.
+
+--- KEYWORDS (81/100) ---
+naval battle, gunboat, islands, marines, submarines, bosses, arcade, shooter, war
+
+================================================================
+КОММЕНТАРИЙ РАЗРАБОТЧИКА — для модератора (1676/2048)
+================================================================
+Здравствуйте! Игра — морская аркада с видом сверху, вся графика и звук генерируются кодом, внешних ресурсов нет: единственный внешний запрос — сам SDK Яндекс Игр.
+
+Что реализовано по требованиям:
+• SDK: инициализация, LoadingAPI.ready() после готовности, GameplayAPI.start()/stop() на вход в бой и выход в меню, подписка на game_api_pause и game_api_resume (звук глушится, мир останавливается).
+• Реклама только через SDK и только в логических паузах — между уровнями и после гибели, внутри боя её нет. Собственный интервал между межстраничными — 3 минуты, ничего не показывается в первую минуту сессии и минуту после ролика за награду. Ролик за вознаграждение запускается только по явному нажатию игрока (возрождение, дополнительные ракеты, прокрутка барабана).
+• Покупки: две постоянные вещи через Payments. Чеки постоянных товаров не консумируются и восстанавливаются через getPurchases() при каждом запуске; необработанные чужие чеки гасятся.
+• Прогресс: звание, серия дней, задания и рекорды сохраняются в localStorage и дублируются в облако через player.setData/getData (включена опция облачных сохранений). Текущая операция переживает обновление страницы и смену ориентации; гибель начинает забег заново — это игровая механика.
+• Язык определяется автоматически через environment.i18n.lang, ручной выбор игрока приоритетнее. Полная локализация: русский и английский.
+• При потере фокуса звук останавливается, бой ставится на паузу.
+• Управление: клавиатура и мышь на десктопе, два стика и экранные кнопки на сенсоре, подсказка повернуть устройство в портретной ориентации. Интерфейс проверен на наложения элементов.
+
+Спасибо за проверку, готов оперативно внести правки.
